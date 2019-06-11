@@ -1,4 +1,4 @@
-# Code Along: An Intro to Inheritance
+ti# Code Along: An Intro to Inheritance
 
 ## Objectives
 
